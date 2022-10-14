@@ -185,6 +185,12 @@ img {
   margin-top: 20px;
 }
 
+textarea {
+  border-radius: 15px;
+  outline-color: #28a745;
+  margin-top: 20px;
+}
+
 /* Post */
 
 .post {
