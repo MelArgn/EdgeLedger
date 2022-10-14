@@ -185,8 +185,9 @@ img {
   margin-top: 20px;
 }
 
-textarea {
-  border-radius: 15px;
+.callback-form .textarea {
+  width: 100%;
+  border-radius: 10px;
   outline-color: #28a745;
   margin-top: 20px;
 }
